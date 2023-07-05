@@ -1,0 +1,20 @@
+{
+	"data": [
+		{
+			"text": "Hello",
+			"palindrome": false
+		},
+		{
+			"text": "Otto",
+			"palindrome": true
+		},
+		{
+			"text": "Stop",
+			"palindrome": false
+		},
+		{
+			"text": "Stop!",
+			"palindrome": false
+		}
+	]
+}
